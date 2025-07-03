@@ -19,3 +19,10 @@ cd glowing-invention
 git add .
 git commit -m "Add Luen 系統最佳化工具包 v3.0"
 git push origin main
+
+
+
+Control + Shift + m## License
+
+This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](./LICENSE) file for details.
+
